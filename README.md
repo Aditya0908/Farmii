@@ -3,7 +3,7 @@
 
 ## Inspiration 💡
 In todays condition farming became very difficult which is very important part of our India.
-Taking good crop with good yield is vry important. So we decided to do an web project name [Farmi][]. 
+Taking good crop with good yield is vry important. So we decided to do this project. 
 
 ## What it does 🤖
 - Farmi is basically a crop predictor which helps to predict crop on the basis of Soil sample analysis and the rainfall in that area.
